@@ -5,6 +5,7 @@ import About from "./components/navbar/About/About";
 import Services from "./components/navbar/Services/Services";
 import MyWork from "./components/navbar/MyWork/MyWork";
 import Contact from "./components/navbar/Contact/Contact";
+import Footer from "./components/navbar/Footer/Footer";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Services />
       <MyWork />
       <Contact />
+      <Footer />
     </div>
   );
 };
