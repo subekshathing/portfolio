@@ -8,13 +8,14 @@ const Hero = () => {
     <div id="home" className="hero">
       <img src={profile_img} alt="" />
       <h1>
-        <span>Im alex, frontend develepor based in usa</span>
+        <span> Im Shuvechchha Thing, Full-Stack Developer (MERN Stack)</span>
       </h1>
+
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque harum
-        natus temporibus eum atque, sint ad ipsa illo laborum dolore
-        reprehenderit totam facere quas impedit aspernatur rem. Illum,
-        dignissimos maiores.
+        I am a skilled Full-Stack Developer with expertise in the MERN stack
+        (MongoDB, Express.js, React.js, Node.js). I have experience building
+        dynamic web applications, developing RESTful APIs, and creating
+        responsive, user-friendly interfaces.
       </p>
       <div className="hero-action">
         <div className="hero-connect">

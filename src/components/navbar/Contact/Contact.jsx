@@ -39,22 +39,21 @@ const Contact = () => {
         <div className="contact-left">
           <h1>Lets talk</h1>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-            Consequuntur doloribus natus quas quibusdam nulla quia similique
-            placeat ipsa tempore quae. Ea placeat voluptas doloremque totam
-            dolores ratione deserunt esse vitae.
+            Have a project in mind or need help with your next digital venture?
+            We’re here to turn your ideas into reality. Reach out to us today,
+            and let’s start a conversation about how we can work together!
           </p>
           <div className="contact-details">
             <div className="contact-detail">
               <img src={mail_icon} alt="" />
-              <p>greatstackdev@gmail.com</p>
+              <p>shuvechchhathing@gmail.com</p>
             </div>
             <div className="contact-detail">
-              <img src={call_icon} alt="" /> <p>+98776654</p>
+              <img src={call_icon} alt="" /> <p>+977 9865479747</p>
             </div>
             <div className="contact-detail">
               <img src={location_icon} alt="" />
-              <p>CA, United</p>
+              <p>Kathmandu, Nepal</p>
             </div>
           </div>
         </div>
